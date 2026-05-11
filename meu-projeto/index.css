@@ -1,0 +1,18 @@
+/*Reset CSS (igualar tudo
+1 margim (distância externa)
+2 padding (distancia interna)
+3 box-sizing (forma como calculamos tamanho)
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*
+h1 - seletor - quem eu vou estilizar
+{} - todo o estilo fica aqui dentro
+
+
+*/
